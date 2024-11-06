@@ -24,7 +24,7 @@
     align-items: flex-start;
     display: flex;
     flex-direction: row;
-    gap: 2rem;
+    gap: 4rem;
 }
 
 .conteudo__skills--caixa, .conteudo__hobbies--caixa {
@@ -68,7 +68,7 @@
     
     .conteudo__skills, .conteudo__hobbies {
         flex-wrap: wrap;
-        gap: 1rem;
+        gap: 2rem;
     }
     
     .conteudo__skills--caixa, .conteudo__hobbies--caixa {
@@ -100,5 +100,6 @@
     .conteudo__skills--caixa, .conteudo__hobbies--caixa {
         height: 118px;
         width: 156px;
+        margin-left: 4%;
     }
 }

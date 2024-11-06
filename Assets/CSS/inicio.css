@@ -134,9 +134,10 @@
     .menu__sociais--icone {
         font-size: .875rem;
     }
-    
+
     .conteudo__imagem--foto {
         gap: 1rem;
-        width: 98px;
+        width: 35%;
+        margin-left: 35%;
     }
 }

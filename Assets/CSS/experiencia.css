@@ -189,7 +189,8 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+
+@media screen and (max-width: 767px) {
     #experiencia {
         width: auto;
     }
@@ -204,6 +205,7 @@
     
     .container__projeto {
         align-items: center;
+        gap: 10px;
     }
     
     .projeto__conteudo {
